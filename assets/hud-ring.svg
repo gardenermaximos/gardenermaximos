@@ -1,0 +1,44 @@
+<svg width="260" height="260" viewBox="0 0 260 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="avatarClip">
+      <circle cx="130" cy="130" r="78"/>
+    </clipPath>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF6A00"/>
+      <stop offset="100%" stop-color="#FFA53C"/>
+    </linearGradient>
+  </defs>
+
+  <!-- outer dashed ring, slow rotation -->
+  <circle cx="130" cy="130" r="118" fill="none" stroke="#FF6A00" stroke-width="1.5" stroke-dasharray="4 10" opacity="0.55">
+    <animateTransform attributeName="transform" type="rotate" from="0 130 130" to="360 130 130" dur="18s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- mid arc ring, counter-rotation -->
+  <circle cx="130" cy="130" r="102" fill="none" stroke="url(#ringGrad)" stroke-width="2" stroke-dasharray="120 400" opacity="0.85">
+    <animateTransform attributeName="transform" type="rotate" from="360 130 130" to="0 130 130" dur="9s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- pulsing scan ring -->
+  <circle cx="130" cy="130" r="90" fill="none" stroke="#FF6A00" stroke-width="1" opacity="0.3">
+    <animate attributeName="r" values="88;97;88" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.05;0.5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- crosshair ticks -->
+  <g stroke="#FF6A00" stroke-width="2" opacity="0.9">
+    <line x1="130" y1="4" x2="130" y2="20"/>
+    <line x1="130" y1="240" x2="130" y2="256"/>
+    <line x1="4" y1="130" x2="20" y2="130"/>
+    <line x1="240" y1="130" x2="256" y2="130"/>
+  </g>
+
+  <!-- orbiting tracker dot -->
+  <circle r="3.5" fill="#FFA53C">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M 130,12 A 118,118 0 1,1 129.9,12"/>
+  </circle>
+
+  <!-- avatar frame + image -->
+  <circle cx="130" cy="130" r="80" fill="#0D0D0D" stroke="#FF6A00" stroke-width="2"/>
+  <image href="https://github.com/gardenermaximos.png?size=200" x="52" y="52" width="156" height="156" clip-path="url(#avatarClip)"/>
+</svg>
