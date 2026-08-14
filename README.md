@@ -13,7 +13,18 @@
 
 <br/><br/>
 
-<img src="assets/hud-ring.svg" width="190" height="190" alt="HUD operator scan"/>
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://wsrv.nl/?url=github.com/gardenermaximos.png&w=200&h=200&fit=cover&mask=circle" width="140" height="140" alt="operator avatar"/>
+<br/><sub>OPERATOR_ID</sub>
+</td>
+<td align="center" width="50%">
+<img src="assets/hud-ring.svg" width="140" height="140" alt="HUD emblem"/>
+<br/><sub>SYS_EMBLEM</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -23,24 +34,9 @@
 
 <br/>
 
-<table width="100%">
-<tr><td>
-
-```
-┌──[ SYS_LOG :: BOOT_SEQUENCE_INITIATED ]───────────────────────────────────┐
-│ [OK] LOADING OPERATOR_PROFILE ......................... DONE            │
-│ OPERATOR   : Miguel Maximos Ramos Rodrigues                              │
-│ CALLSIGN   : gardenermaximos                                             │
-│ ROLE       : Mechanical Lead // Hardware Engineer                        │
-│ FOCUS      : Physical AI :: Embedded Systems :: Mobile Robotics          │
-│ EXPERIENCE : 5+ yrs // CAD Modeling // Fabrication // Kinematic Control  │
-│ LOCATION   : Ourinhos, SP - Brazil                                       │
-│ [OK] SYSTEM_BIO_LOADED ................................ [STATUS_ONLINE] │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-</td></tr>
-</table>
+<div align="center">
+<img src="assets/terminal-boot.svg" width="100%" alt="boot sequence log"/>
+</div>
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
@@ -159,15 +155,9 @@ APPLIED MATH / RESEARCH     █████████████████�
 
 ## /// CURRENT_OBJECTIVES :: TERMINAL_LOGS
 
-```bash
-[+] CURRENT_LOCATION : Ourinhos, SP - Brazil
-[+] TARGET_DEGREE    : Mechanical Engineering
-[+] CURRENT_FOCUS    : Closed-loop biometrics & physical AI embedded control
-[+] ACTIVE_PROJECTS  : NeuroPulse (Biomedical Wearable) // RoboCup Open Hardware
-[+] RESEARCH_THREAD  : Taylor Series / Silver Ratio sqrt-free hypotenuse approximation
-[>] SYSTEM_LOG       : "Atoms are harder than bits, but that's where the future lives."
-[OK] DIRECTIVES_LOADED ................................. [STATUS_ONLINE]
-```
+<div align="center">
+<img src="assets/terminal-objectives.svg" width="100%" alt="current objectives log"/>
+</div>
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
@@ -237,7 +227,3 @@ APPLIED MATH / RESEARCH     █████████████████�
 ```
 
 </div>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](LINK_DO_SEU_LINKEDIN)
-
----
-**"Atoms are harder than bits, but that's where the future lives."**
