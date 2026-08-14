@@ -26,10 +26,10 @@ I am a Mechanical Lead and Hardware Engineer driven by building physical systems
 ####  [RoboCup-Hardware-OpenSource](https://github.com/gardenermaximos/RoboCup-Hardware-OpenSource)
 > *Complete CAD blueprints, STEP files, and assembly guides for our National Champion autonomous soccer robots. Open-sourced for global development.*
 
-####  [Taylor-Series-Hypotenuse-Approximation](./)
+####  [Taylor-Series-Hypotenuse-Approximation](https://github.com/gardenermaximos/Taylor-Series-Hypotenuse-Approximation)
 > *Research paper implementation: A square-root-free hypotenuse approximation using Taylor Series and Silver Ratio variations for fast microcontroller kinematics.*
 
-####  [NeuroPulse-Industrial-Safety](./)
+####  [NeuroPulse-Industrial-Safety](https://github.com/gardenermaximos/NeuroPulse-Industrial-Safety)
 > *Hardware architecture and sensor integration documentation for an autonomous industrial operator fatigue/distraction monitoring system.*
 
 ---
