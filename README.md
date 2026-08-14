@@ -23,7 +23,7 @@ I am a Mechanical Lead and Hardware Engineer driven by building physical systems
 
 ### 📌 Featured Repositories
 
-####  [RoboCup-Hardware-OpenSource](./RoboCup-Hardware-OpenSource)
+####  [RoboCup-Hardware-OpenSource](https://github.com/gardenermaximos/RoboCup-Hardware-OpenSource/tree/main)
 > *Complete CAD blueprints, STEP files, and assembly guides for our National Champion autonomous soccer robots. Open-sourced for global development.*
 
 ####  [Taylor-Series-Hypotenuse-Approximation](./)
