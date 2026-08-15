@@ -1,13 +1,12 @@
-
 <svg width="260" height="260" viewBox="0 0 260 260" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FF6A00"/>
-      <stop offset="100%" stop-color="#FFA53C"/>
+      <stop offset="0%" stop-color="#E4717A"/>
+      <stop offset="100%" stop-color="#F5ABB0"/>
     </linearGradient>
   </defs>
 
-  <circle cx="130" cy="130" r="118" fill="none" stroke="#FF6A00" stroke-width="1.5" stroke-dasharray="4 10" opacity="0.55">
+  <circle cx="130" cy="130" r="118" fill="none" stroke="#9E3B42" stroke-width="1.5" stroke-dasharray="4 10" opacity="0.55">
     <animateTransform attributeName="transform" type="rotate" from="0 130 130" to="360 130 130" dur="18s" repeatCount="indefinite"/>
   </circle>
 
@@ -15,26 +14,26 @@
     <animateTransform attributeName="transform" type="rotate" from="360 130 130" to="0 130 130" dur="9s" repeatCount="indefinite"/>
   </circle>
 
-  <circle cx="130" cy="130" r="90" fill="none" stroke="#FF6A00" stroke-width="1" opacity="0.3">
+  <circle cx="130" cy="130" r="90" fill="none" stroke="#9E3B42" stroke-width="1" opacity="0.3">
     <animate attributeName="r" values="88;97;88" dur="3s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.5;0.05;0.5" dur="3s" repeatCount="indefinite"/>
   </circle>
 
-  <g stroke="#FF6A00" stroke-width="2" opacity="0.9">
+  <g stroke="#E4717A" stroke-width="2" opacity="0.9">
     <line x1="130" y1="4" x2="130" y2="20"/>
     <line x1="130" y1="240" x2="130" y2="256"/>
     <line x1="4" y1="130" x2="20" y2="130"/>
     <line x1="240" y1="130" x2="256" y2="130"/>
   </g>
 
-  <circle r="3.5" fill="#FFA53C">
+  <circle r="3.5" fill="#F5ABB0">
     <animateMotion dur="6s" repeatCount="indefinite" path="M 130,12 A 118,118 0 1,1 129.9,12"/>
   </circle>
 
   <!-- central gear/monogram emblem, fully vector, no external refs -->
-  <circle cx="130" cy="130" r="76" fill="#0A0A0A" stroke="#FF6A00" stroke-width="2"/>
-  <circle cx="130" cy="130" r="46" fill="none" stroke="#FF6A00" stroke-width="3" opacity="0.8"/>
-  <g fill="#FF6A00">
+  <circle cx="130" cy="130" r="76" fill="#0A0A0A" stroke="#E4717A" stroke-width="2"/>
+  <circle cx="130" cy="130" r="46" fill="none" stroke="#E4717A" stroke-width="3" opacity="0.8"/>
+  <g fill="#E4717A">
     <rect x="126" y="48" width="8" height="16"/>
     <rect x="126" y="196" width="8" height="16"/>
     <rect x="48" y="126" width="16" height="8"/>
@@ -44,5 +43,5 @@
     <rect x="76" y="178" width="8" height="16" transform="rotate(-45 80 186)"/>
     <rect x="176" y="178" width="8" height="16" transform="rotate(45 180 186)"/>
   </g>
-  <text x="130" y="141" font-family="Consolas, 'Courier New', monospace" font-size="34" font-weight="bold" fill="#FFA53C" text-anchor="middle">M</text>
+  <text x="130" y="141" font-family="Consolas, 'Courier New', monospace" font-size="34" font-weight="bold" fill="#F5ABB0" text-anchor="middle">M</text>
 </svg>
