@@ -12,18 +12,7 @@
 
 <br/><br/>
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://github.com/gardenermaximos.png?v=2" alt="gardener"/>
-<br/><sub>Miguel</sub>
-</td>
-<td align="center" width="50%">
-<img src="assets/hud-ring.svg" width="140" height="140" alt="HUD emblem"/>
-<br/><sub>Maximos</sub>
-</td>
-</tr>
-</table>
+
 
 </div>
 
@@ -53,36 +42,34 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <div align="center">
 
-**[ 01 ] CAD & PHYSICAL PROTOTYPING**
-<br/>
-<img src="https://img.shields.io/badge/Fusion_360-E4717A?style=for-the-badge&logo=autodesk&logoColor=030303" />
-<img src="https://img.shields.io/badge/STEP_%2F_STL_MGMT-030303?style=for-the-badge&logo=files&logoColor=E4717A" />
-<img src="https://img.shields.io/badge/FDM_3D_PRINTING-F5ABB0?style=for-the-badge&logo=prusa&logoColor=030303" />
-<img src="https://img.shields.io/badge/LASER_CUTTING-9E3B42?style=for-the-badge&logo=target&logoColor=FFE4EA" />
+<p align="center"><b>[ 01 ] CAD & PHYSICAL PROTOTYPING</b></p>
+
+<img src="https://img.shields.io/badge/FUSION_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white&v=1" alt="Fusion 360"/>
+<img src="https://img.shields.io/badge/STEP_%2F_STL_MGMT-333333?style=for-the-badge&logo=autodesk&logoColor=white&v=1" alt="STEP / STL"/>
+<img src="https://img.shields.io/badge/FDM_3D_PRINTING-FF6600?style=for-the-badge&logo=prusa&logoColor=white&v=1" alt="3D Printing"/>
+<img src="https://img.shields.io/badge/LASER_CUTTING-C0392B?style=for-the-badge&logo=target&logoColor=white&v=1" alt="Laser Cutting"/>
 
 <br/><br/>
 
-**[ 02 ] EMBEDDED & COMPUTING**
-<br/>
-<img src="https://img.shields.io/badge/C%2B%2B-E4717A?style=for-the-badge&logo=cplusplus&logoColor=030303" />
-<img src="https://img.shields.io/badge/Python-F5ABB0?style=for-the-badge&logo=python&logoColor=030303" />
-<img src="https://img.shields.io/badge/ESP32-9E3B42?style=for-the-badge&logo=espressif&logoColor=FFE4EA" />
-<img src="https://img.shields.io/badge/Arduino-E4717A?style=for-the-badge&logo=arduino&logoColor=030303" />
-<img src="https://img.shields.io/badge/SENSOR_INTEGRATION-030303?style=for-the-badge&logo=circuitverse&logoColor=F5ABB0" />
-<img src="https://img.shields.io/badge/PCB_LAYOUT-030303?style=for-the-badge&logo=kicad&logoColor=E4717A" />
-<img src="https://img.shields.io/badge/ROS_[LEARNING]-5C0010?style=for-the-badge&logo=ros&logoColor=FFE4EA" />
+<p align="center"><b>[ 02 ] EMBEDDED & COMPUTING</b></p>
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&v=1" alt="C++"/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFE873&v=1" alt="Python"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&v=1" alt="ESP32"/>
+<img src="https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white&v=1" alt="Arduino"/>
+<img src="https://img.shields.io/badge/SENSOR_INTEGRATION-2C3E50?style=for-the-badge&logo=microchip&logoColor=white&v=1" alt="Sensors"/>
+<img src="https://img.shields.io/badge/PCB_LAYOUT-31419E?style=for-the-badge&logo=kicad&logoColor=white&v=1" alt="KiCad PCB"/>
+<img src="https://img.shields.io/badge/ROS_[LEARNING]-22314E?style=for-the-badge&logo=ros&logoColor=white&v=1" alt="ROS"/>
 
 <br/><br/>
 
-**[ 03 ] ENGINEERING WORKFLOW**
-<br/>
-<img src="https://img.shields.io/badge/Git-E4717A?style=for-the-badge&logo=git&logoColor=030303" />
-<img src="https://img.shields.io/badge/GitHub-030303?style=for-the-badge&logo=github&logoColor=F5ABB0" />
-<img src="https://img.shields.io/badge/VS_Code-E4717A?style=for-the-badge&logo=visualstudiocode&logoColor=030303" />
+<p align="center"><b>[ 03 ] ENGINEERING WORKFLOW</b></p>
+
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&v=1" alt="Git"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&v=1" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&v=1" alt="VS Code"/>
 
 </div>
-
-<img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
 ### LAST COMPETITIONS LOG
 
@@ -123,31 +110,35 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <table width="100%">
 <tr>
-<td width="50%" bgcolor="#030303">
-<a href="https://github.com/gardenermaximos/RoboCup-Hardware-OpenSource">
-<img width="100%" src="https://img.shields.io/badge/RoboCup--Hardware--OpenSource-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="RoboCup Hardware OpenSource"/>
-</a>
-<p align="left"><font color="#F5ABB0"><sub><b>[MODULE_01]</b> Complete CAD blueprints, STEP files & assembly guides for national champion robots.</sub></font></p>
+<td width="50%" align="center" bgcolor="#030303">
+  <br/>
+  <a href="https://github.com/gardenermaximos/RoboCup-Hardware-OpenSource">
+    <img width="340" src="https://img.shields.io/badge/%20RoboCup--Hardware--OpenSource%20-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="RoboCup Hardware OpenSource"/>
+  </a>
+  <p align="left"><font color="#F5ABB0"><sub><b>[MODULE_01]</b> Complete CAD blueprints, STEP files & assembly guides for national champion robots.</sub></font></p>
 </td>
-<td width="50%" bgcolor="#030303">
-<a href="https://github.com/gardenermaximos/Taylor-Series-Hypotenuse-Approximation">
-<img width="100%" src="https://img.shields.io/badge/Taylor--Series--Hypotenuse-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="Taylor Series Hypotenuse Approximation"/>
-</a>
-<p align="left"><font color="#F5ABB0"><sub><b>[MODULE_02]</b> Fast square-root-free hypotenuse approximation algorithm using Taylor Series for MCUs.</sub></font></p>
+<td width="50%" align="center" bgcolor="#030303">
+  <br/>
+  <a href="https://github.com/gardenermaximos/Taylor-Series-Hypotenuse-Approximation">
+    <img width="340" src="https://img.shields.io/badge/%20%20Taylor--Series--Hypotenuse%20%20-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="Taylor Series Hypotenuse Approximation"/>
+  </a>
+  <p align="left"><font color="#F5ABB0"><sub><b>[MODULE_02]</b> Fast square-root-free hypotenuse approximation algorithm using Taylor Series for MCUs.</sub></font></p>
 </td>
 </tr>
 <tr>
-<td width="50%" bgcolor="#030303">
-<a href="https://github.com/gardenermaximos/NeuroPulse-Industrial-Safety">
-<img width="100%" src="https://img.shields.io/badge/NeuroPulse--Industrial--Safety-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="NeuroPulse Industrial Safety"/>
-</a>
-<p align="left"><font color="#F5ABB0"><sub><b>[MODULE_03]</b> Closed-loop biomedical wearable architecture for operator fatigue/distraction monitoring.</sub></font></p>
+<td width="50%" align="center" bgcolor="#030303">
+  <br/>
+  <a href="https://github.com/gardenermaximos/NeuroPulse-Industrial-Safety">
+    <img width="340" src="https://img.shields.io/badge/%20NeuroPulse--Industrial--Safety-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="NeuroPulse Industrial Safety"/>
+  </a>
+  <p align="left"><font color="#F5ABB0"><sub><b>[MODULE_03]</b> Closed-loop biomedical wearable architecture for operator fatigue/distraction monitoring.</sub></font></p>
 </td>
-<td width="50%" bgcolor="#030303">
-<a href="https://github.com/gardenermaximos/StemPlan-Robotics-Curriculum">
-<img width="100%" src="https://img.shields.io/badge/StemPlan--Robotics--Curriculum-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="StemPlan Robotics Curriculum"/>
-</a>
-<p align="left"><font color="#F5ABB0"><sub><b>[MODULE_04]</b> Open-access STEM, 3D modeling, and robotics training curriculum for middle school initiation.</sub></font></p>
+<td width="50%" align="center" bgcolor="#030303">
+  <br/>
+  <a href="https://github.com/gardenermaximos/StemPlan-Robotics-Curriculum">
+    <img width="340" src="https://img.shields.io/badge/%20StemPlan--Robotics--Curriculum%20-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="StemPlan Robotics Curriculum"/>
+  </a>
+  <p align="left"><font color="#F5ABB0"><sub><b>[MODULE_04]</b> Open-access STEM, 3D modeling, and robotics training curriculum for middle school initiation.</sub></font></p>
 </td>
 </tr>
 </table>
