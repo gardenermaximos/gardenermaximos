@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E4717A&center=true&vCenter=true&width=900&height=45&lines=%3E+MIGUEL_MAXIMOS_RAMOS_RODRIGUES+%2F%2F+MECHANICAL_DESIGN+%26+HARDWARE_ENGINEER;&repeat=false" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=E4717A&center=true&vCenter=true&width=1100&height=40&lines=%3E+MIGUEL_MAXIMOS_RAMOS_RODRIGUES+%2F%2F+MECHANICAL_DESIGN+%26+HARDWARE_ENGINEER;&repeat=false" alt="Typing SVG"/>
 
 <p>
 <b>PHYSICAL AI &nbsp;::&nbsp; AUTONOMOUS HARDWARE &nbsp;::&nbsp; OPEN-SOURCE ADVOCATE</b>
