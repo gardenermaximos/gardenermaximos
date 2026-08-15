@@ -113,14 +113,6 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
-## /// CURRENT_OBJECTIVES :: TERMINAL_LOGS
-
-<div align="center">
-<img src="assets/terminal-objectives.svg" width="100%" alt="current objectives log"/>
-</div>
-
-<img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
-
 ## FEATURED_REPOSITORIES
 
 <div align="center">
