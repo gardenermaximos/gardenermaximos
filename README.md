@@ -49,7 +49,7 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
-### HARDWARE_&_SOFTWARE_MATRIX
+### HARDWARE & SOFTWARE MATRIX
 
 <div align="center">
 
@@ -99,7 +99,7 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
-## TRACK_RECORD
+## TRACK RECORD
 <div align="center">
 
 | `[ID]` | MODULE | METRICS |
@@ -113,7 +113,7 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
-## FEATURED_REPOSITORIES
+## FEATURED REPOSITORIES
 
 <div align="center">
 
@@ -154,7 +154,7 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 </div>
 
-## /// SYSTEM_METRICS_&_ANALYTICS :: TELEMETRY
+## SYSTEM METRICS
 
 <div align="center">
 
@@ -171,7 +171,7 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
   </td>
   <td width="50%" align="center" bgcolor="#030303">
     <p align="center"><font color="#E4717A"><b>/// REPOSITORY METRICS</b></font></p>
-    <img src="https://img.shields.io/github/stars/gardenermaximos?style=for-the-badge&label=STARS&labelColor=030303&color=E4717A" /><br/>
+  <img src="https://img.shields.io/github/stars/gardenermaximos?type=all&style=for-the-badge&label=TOTAL_STARS&labelColor=030303&color=E4717A" />
     <img src="https://img.shields.io/github/followers/gardenermaximos?style=for-the-badge&label=FOLLOWERS&labelColor=030303&color=F5ABB0" />
   </td>
 </tr>
@@ -208,23 +208,22 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <div align="center">
 
-<a href="https://www.printables.com/@MiguelMaximo_5247862">
-<img src="https://img.shields.io/badge/PRINTABLES-E4717A?style=for-the-badge&logo=cults3d&logoColor=030303" alt="Printables"/>
-</a>
-<a href="https://makerworld.com/@MiguelMaximoss">
-<img src="https://img.shields.io/badge/MAKERWORLD-F5ABB0?style=for-the-badge&logo=bambulab&logoColor=030303" alt="MakerWorld"/>
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/LINKEDIN-9E3B42?style=for-the-badge&logo=linkedin&logoColor=FFE4EA" alt="LinkedIn"/>
-</a>
-
-</div>
-
 <br/>
 
-<div align="center">
+<a href="https://www.printables.com/@MiguelMaximo_5247862">
+  <img width="240" height="55" src="https://img.shields.io/badge/PRINTABLES-E4717A?style=for-the-badge&logo=printables&logoColor=030303" alt="Printables"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://makerworld.com/@MiguelMaximoss">
+  <img width="240" height="55" src="https://img.shields.io/badge/MAKERWORLD-F5ABB0?style=for-the-badge&logo=bambulab&logoColor=030303" alt="MakerWorld"/>
+</a>
+&nbsp;&nbsp;
+<a href="#">
+  <img width="240" height="55" src="https://img.shields.io/badge/%20LINKEDIN%20-9E3B42?style=for-the-badge&logo=linkedin&logoColor=FFE4EA" alt="LinkedIn"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,50:5C0010,100:030303&height=110&section=footer&animation=fadeIn&text=SYSTEM_STANDBY&fontAlign=50&fontAlignY=65&fontColor=FFFFFF&fontSize=22" width="100%" alt="footer wave"/>
+<br/><br/><br/>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,50:5C0010,100:030303&height=110&section=footer&animation=fadeIn&text=THANK_YOU&fontAlign=50&fontAlignY=65&fontColor=FFFFFF&fontSize=18" width="100%" alt="footer wave"/>
 
 </div>
