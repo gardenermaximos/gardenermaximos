@@ -1,20 +1,20 @@
-<svg width="820" height="228" viewBox="0 0 820 228" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace">
-  <rect x="1" y="1" width="818" height="226" rx="8" fill="#0A0A0A" stroke="#FF6A00" stroke-width="1.5"/>
-  <rect x="1" y="1" width="818" height="34" rx="8" fill="#160B00"/>
-  <rect x="1" y="27" width="818" height="8" fill="#160B00"/>
-  <text x="20" y="24" font-size="14" fill="#FF6A00" font-weight="bold">[ SYS_LOG :: CURRENT_OBJECTIVES ]</text>
-  <circle cx="792" cy="18" r="5" fill="#FFA53C">
+
+<svg width="820" height="204" viewBox="0 0 820 204" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace">
+  <rect x="1" y="1" width="818" height="202" rx="8" fill="#0A0A0A" stroke="#9E3B42" stroke-width="1.5"/>
+  <rect x="1" y="1" width="818" height="34" rx="8" fill="#1A000A"/>
+  <rect x="1" y="27" width="818" height="8" fill="#1A000A"/>
+  <text x="20" y="24" font-size="14" fill="#E4717A" font-weight="bold">[ SYS_LOG :: CURRENT_OBJECTIVES ]</text>
+  <circle cx="792" cy="18" r="5" fill="#F5ABB0">
     <animate attributeName="opacity" values="1;0.15;1" dur="1.4s" repeatCount="indefinite"/>
   </circle>
 
-  <text x="24" y="62" font-size="13.5"><tspan fill="#FF6A00">[+] </tspan><tspan fill="#8A8A8A">CURRENT_LOCATION : </tspan><tspan fill="#F0F0F0">Ourinhos, SP - Brazil</tspan></text>
-  <text x="24" y="86" font-size="13.5"><tspan fill="#FF6A00">[+] </tspan><tspan fill="#8A8A8A">TARGET_DEGREE    : </tspan><tspan fill="#F0F0F0">Mechanical Engineering</tspan></text>
-  <text x="24" y="110" font-size="13.5"><tspan fill="#FF6A00">[+] </tspan><tspan fill="#8A8A8A">CURRENT_FOCUS    : </tspan><tspan fill="#F0F0F0">Closed-loop biometrics &amp; physical AI embedded control</tspan></text>
-  <text x="24" y="134" font-size="13.5"><tspan fill="#FF6A00">[+] </tspan><tspan fill="#8A8A8A">ACTIVE_PROJECTS  : </tspan><tspan fill="#F0F0F0">NeuroPulse (Biomedical Wearable) // RoboCup Open Hardware</tspan></text>
-  <text x="24" y="158" font-size="13.5"><tspan fill="#FF6A00">[+] </tspan><tspan fill="#8A8A8A">RESEARCH_THREAD  : </tspan><tspan fill="#F0F0F0">Taylor Series / Silver Ratio sqrt-free hypotenuse approximation</tspan></text>
-  <text x="24" y="184" font-size="13.5"><tspan fill="#FFA53C">[&gt;] SYSTEM_LOG</tspan><tspan fill="#8A8A8A">    : </tspan><tspan fill="#F0F0F0" font-style="italic">"Atoms are harder than bits, but that's where the future lives."</tspan></text>
-  <text x="24" y="210" font-size="13.5" fill="#8A8A8A">[OK] DIRECTIVES_LOADED ................................. <tspan fill="#FFA53C">[STATUS_ONLINE]</tspan></text>
-  <rect x="700" y="198" width="9" height="15" fill="#FFA53C">
+  <text x="24" y="62" font-size="13.5"><tspan fill="#E4717A">[+] </tspan><tspan fill="#8A8A8A">TARGET_DEGREE    : </tspan><tspan fill="#F0F0F0">Mechanical Engineering</tspan></text>
+  <text x="24" y="86" font-size="13.5"><tspan fill="#E4717A">[+] </tspan><tspan fill="#8A8A8A">CURRENT_FOCUS    : </tspan><tspan fill="#F0F0F0">Closed-loop biometrics &amp; physical AI embedded control</tspan></text>
+  <text x="24" y="110" font-size="13.5"><tspan fill="#E4717A">[+] </tspan><tspan fill="#8A8A8A">ACTIVE_PROJECTS  : </tspan><tspan fill="#F0F0F0">NeuroPulse (Biomedical Wearable) // RoboCup Open Hardware</tspan></text>
+  <text x="24" y="134" font-size="13.5"><tspan fill="#E4717A">[+] </tspan><tspan fill="#8A8A8A">RESEARCH_THREAD  : </tspan><tspan fill="#F0F0F0">Taylor Series / Silver Ratio sqrt-free hypotenuse approximation</tspan></text>
+  <text x="24" y="160" font-size="13.5"><tspan fill="#F5ABB0">[&gt;] SYSTEM_LOG</tspan><tspan fill="#8A8A8A">    : </tspan><tspan fill="#F0F0F0" font-style="italic">"Atoms are harder than bits, but that's where the future lives."</tspan></text>
+  <text x="24" y="186" font-size="13.5" fill="#8A8A8A">[OK] DIRECTIVES_LOADED ................................. <tspan fill="#F5ABB0">[STATUS_ONLINE]</tspan></text>
+  <rect x="700" y="174" width="9" height="15" fill="#F5ABB0">
     <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
   </rect>
 </svg>
