@@ -158,26 +158,21 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <div align="center">
 
-`[SYSTEM_LOG]` Real-time operator metrics & activity diagnostics.
+`[DIAGNOSTIC_LOG]` Real-time repository metrics, language matrix, and commit telemetry.
 
 <br/><br/>
 
 <table width="100%">
 <tr>
-  <td width="33%" align="center" bgcolor="#030303">
-    <font color="#E4717A"><b>/// SYSTEM STATUS</b></font><br/><br/>
-    <img src="https://img.shields.io/badge/CORE-ACTIVE-E4717A?style=for-the-badge&labelColor=030303" /><br/>
-    <font color="#F5ABB0"><sub>[ 01 ] HARDWARE & EMBEDDED</sub></font>
+  <td width="50%" align="center" bgcolor="#030303">
+    <p align="center"><font color="#E4717A"><b>/// CORE ENGINE & STACK</b></font></p>
+    <img src="https://img.shields.io/badge/MAIN_LANG-C%2B%2B_%2F_PYTHON-E4717A?style=for-the-badge&labelColor=030303" /><br/>
+    <img src="https://img.shields.io/badge/HARDWARE-EMBEDDED_SYSTEMS-F5ABB0?style=for-the-badge&labelColor=030303" />
   </td>
-  <td width="33%" align="center" bgcolor="#030303">
-    <font color="#E4717A"><b>/// PRIMARY ENGINE</b></font><br/><br/>
-    <img src="https://img.shields.io/badge/LANG-C%2B%2B_%2F_PYTHON-F5ABB0?style=for-the-badge&labelColor=030303" /><br/>
-    <font color="#F5ABB0"><sub>[ 02 ] CAD & ALGORITHMS</sub></font>
-  </td>
-  <td width="33%" align="center" bgcolor="#030303">
-    <font color="#E4717A"><b>/// CLEARANCE</b></font><br/><br/>
-    <img src="https://img.shields.io/badge/LEVEL-OPEN_SOURCE-9E3B42?style=for-the-badge&labelColor=030303" /><br/>
-    <font color="#F5ABB0"><sub>[ 03 ] ROBOCUP CHAMPION</sub></font>
+  <td width="50%" align="center" bgcolor="#030303">
+    <p align="center"><font color="#E4717A"><b>/// REPOSITORY METRICS</b></font></p>
+    <img src="https://img.shields.io/github/stars/gardenermaximos?style=for-the-badge&label=STARS&labelColor=030303&color=E4717A" /><br/>
+    <img src="https://img.shields.io/github/followers/gardenermaximos?style=for-the-badge&label=FOLLOWERS&labelColor=030303&color=F5ABB0" />
   </td>
 </tr>
 </table>
@@ -185,12 +180,17 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 <br/>
 
 <a href="https://github.com/gardenermaximos">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=gardenermaximos&theme=dark&background=030303&border=9E3B42&stroke=E4717A&ring=F5ABB0&fire=E4717A&currStreakLabel=F5ABB0" alt="Streak Diagnostics"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/gardenermaximos">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gardenermaximos&theme=react-dark&bg_color=030303&color=E4717A&line=F5ABB0&point=E4717A&area=true&hide_border=true" alt="Activity Graph"/>
 </a>
 
 </div>
-
-## CONTRIBUTION_MATRIX
+## CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -204,7 +204,7 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
-## PORTFOLIO_NODES
+## CONNECT WITH ME!
 
 <div align="center">
 
@@ -226,10 +226,5 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,50:5C0010,100:030303&height=110&section=footer&animation=fadeIn&text=SYSTEM_STANDBY&fontAlign=50&fontAlignY=65&fontColor=FFFFFF&fontSize=22" width="100%" alt="footer wave"/>
 
-```
-[ID] OPERATOR :: gardenermaximos // Miguel Maximos Ramos Rodrigues
-[COPYRIGHT] (c) 2026 :: ALL_SYSTEMS_AUTHORED_IN_BRAZIL
-[STATUS] ................................ [ONLINE] :: [MONITORING_ACTIVE]
-```
 
 </div>
