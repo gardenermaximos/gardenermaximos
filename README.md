@@ -39,23 +39,13 @@
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
-## /// SYSTEM_BIO :: OPERATOR_OVERVIEW
+### OVERVIEW
 
 Mechanical Design and Hardware Engineer driven by building physical systems that operate reliably in the real world. Rooted in mechanical design, automation, and control systems, with 5+ years of hands-on experience across CAD modeling, physical fabrication, and mobile robotics — focused on Physical AI and low-latency embedded hardware.
 
 What started as late nights fixing homemade robots turned into leading a RoboCup team from last place in regional qualifiers to the international stage. That same drive now goes into open-sourcing production-ready hardware for other teams and mentoring the next generation of builders through StemPlan.
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
-
-## /// SYSTEM_CAPABILITY_GAUGES
-
-```
-CAD & MECHANICAL DESIGN     ██████████████████░░  90%
-PHYSICAL FABRICATION        ██████████████████░░  90%
-EMBEDDED C / C++            ████████████████░░░░  80%
-PYTHON                      ████████████████░░░░  80%
-APPLIED MATH / RESEARCH     ██████████████████░░  90%
-```
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
