@@ -43,33 +43,7 @@
 
 Mechanical Design and Hardware Engineer driven by building physical systems that operate reliably in the real world. Rooted in mechanical design, automation, and control systems, with 5+ years of hands-on experience across CAD modeling, physical fabrication, and mobile robotics — focused on Physical AI and low-latency embedded hardware.
 
-<div align="center">
-
-| `[ID]` | MODULE | METRICS |
-|:---:|:---|:---|
-| `[01]` | **HARDWARE_ARCHITECTURE** :: RoboCup | 300+ 3D models designed \| 100+ custom fabricated parts \| 6 autonomous soccer robots (Lightweight & Infrared) |
-| `[02]` | **ALGORITHMIC_EFFICIENCY** :: Research | Taylor Series & Silver Ratio approximations replacing sqrt ops on microcontrollers |
-| `[03]` | **OPEN_SOURCE_HARDWARE** :: Publishing | Production-ready CAD + docs standardized for 9+ BR robotics teams |
-| `[04]` | **STEM_MENTORSHIP** :: StemPlan | Founder \| 64+ students mentored \| 1 trainee promoted to competitive squad |
-
-</div>
-
-<img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
-
-## /// COMPETITION_LOG :: VERIFIED_RESULTS
-
-<div align="center">
-
-| `[RANK]` | EVENT | RESULT |
-|:---:|:---|:---|
-| `[>>]` | RoboCup International — Incheon 2026 | **Top 6 / 24** teams worldwide |
-| `[>>]` | RoboCup Brazil — National Championship 2025 | **1st / 6** national teams |
-| `[>>]` | State Championship 2026 | **1st / 8** state teams (x2 titles) |
-| `[>>]` | State Championship 2025 | **3rd / 8** state teams (x2 podiums) |
-
-`[LOG]` Team trajectory: last place in regional qualifiers &rarr; National Champion &rarr; Top 6 global &rarr; 4 new teams incubated (1 state title).
-
-</div>
+What started as late nights fixing homemade robots turned into leading a RoboCup team from last place in regional qualifiers to the international stage. That same drive now goes into open-sourcing production-ready hardware for other teams and mentoring the next generation of builders through StemPlan.
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
@@ -120,7 +94,51 @@ APPLIED MATH / RESEARCH     █████████████████�
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
-## /// FEATURED_MISSION_MODULES :: REPOSITORIES
+## /// COMPETITION_LOG :: VERIFIED_RESULTS
+
+<div align="center">
+
+| `[RANK]` | EVENT | RESULT |
+|:---:|:---|:---|
+| `[>>]` | RoboCup International — Incheon 2026 | **Top 6 / 24** teams worldwide |
+| `[>>]` | RoboCup Brazil — National Championship 2025 | **1st / 6** national teams |
+| `[>>]` | State Championship 2026 | **1st / 8** state teams (x2 titles) |
+| `[>>]` | State Championship 2025 | **3rd / 8** state teams (x2 podiums) |
+
+`[LOG]` Team trajectory: last place in regional qualifiers &rarr; National Champion &rarr; Top 6 global &rarr; 4 new teams incubated (1 state title).
+
+</div>
+
+<img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
+
+## /// TRACK_RECORD :: KEY_METRICS
+
+<div align="center">
+
+| `[ID]` | MODULE | METRICS |
+|:---:|:---|:---|
+| `[01]` | **HARDWARE_ARCHITECTURE** :: RoboCup | 300+ 3D models designed \| 100+ custom fabricated parts \| 6 autonomous soccer robots (Lightweight & Infrared) |
+| `[02]` | **ALGORITHMIC_EFFICIENCY** :: Research | Taylor Series & Silver Ratio approximations replacing sqrt ops on microcontrollers |
+| `[03]` | **OPEN_SOURCE_HARDWARE** :: Publishing | Production-ready CAD + docs standardized for 9+ BR robotics teams |
+| `[04]` | **STEM_MENTORSHIP** :: StemPlan | Founder \| 64+ students mentored \| 1 trainee promoted to competitive squad |
+
+</div>
+
+<img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
+
+## /// CURRENT_OBJECTIVES :: TERMINAL_LOGS
+
+<div align="center">
+<img src="assets/terminal-objectives.svg" width="100%" alt="current objectives log"/>
+</div>
+
+<img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
+
+## /// FEATURED_REPOSITORIES :: (EXTRA)
+
+<div align="center">
+
+`[LOG]` A few projects worth a closer look — everything else lives on the profile below.
 
 <table width="100%">
 <tr>
@@ -149,12 +167,6 @@ APPLIED MATH / RESEARCH     █████████████████�
 </tr>
 </table>
 
-<img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
-
-## /// CURRENT_OBJECTIVES :: TERMINAL_LOGS
-
-<div align="center">
-<img src="assets/terminal-objectives.svg" width="100%" alt="current objectives log"/>
 </div>
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
