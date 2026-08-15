@@ -15,12 +15,12 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://wsrv.nl/?url=github.com/gardenermaximos.png&w=200&h=200&fit=cover&mask=circle" width="140" height="140" alt="operator avatar"/>
-<br/><sub>gardener</sub>
+<img src="https://github.com/gardenermaximos.png?v=2" alt="gardener"/>
+<br/><sub>Miguel</sub>
 </td>
 <td align="center" width="50%">
 <img src="assets/hud-ring.svg" width="140" height="140" alt="HUD emblem"/>
-<br/><sub>maximos</sub>
+<br/><sub>Maximos</sub>
 </td>
 </tr>
 </table>
