@@ -34,7 +34,7 @@
 <br/>
 
 <div align="center">
-<img src="assets/terminal-boot.svg" width="100%" alt="boot sequence log"/>
+
 </div>
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
