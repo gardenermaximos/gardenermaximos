@@ -1,21 +1,20 @@
-<svg width="820" height="252" viewBox="0 0 820 252" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace">
-  <rect x="1" y="1" width="818" height="250" rx="8" fill="#0A0A0A" stroke="#FF6A00" stroke-width="1.5"/>
-  <rect x="1" y="1" width="818" height="34" rx="8" fill="#160B00"/>
-  <rect x="1" y="27" width="818" height="8" fill="#160B00"/>
-  <text x="20" y="24" font-size="14" fill="#FF6A00" font-weight="bold">[ SYS_LOG :: BOOT_SEQUENCE_INITIATED ]</text>
-  <circle cx="792" cy="18" r="5" fill="#FFA53C">
+<svg width="820" height="228" viewBox="0 0 820 228" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace">
+  <rect x="1" y="1" width="818" height="226" rx="8" fill="#0A0A0A" stroke="#9E3B42" stroke-width="1.5"/>
+  <rect x="1" y="1" width="818" height="34" rx="8" fill="#1A000A"/>
+  <rect x="1" y="27" width="818" height="8" fill="#1A000A"/>
+  <text x="20" y="24" font-size="14" fill="#E4717A" font-weight="bold">[ SYS_LOG :: BOOT_SEQUENCE_INITIATED ]</text>
+  <circle cx="792" cy="18" r="5" fill="#F5ABB0">
     <animate attributeName="opacity" values="1;0.15;1" dur="1.4s" repeatCount="indefinite"/>
   </circle>
 
-  <text x="24" y="62" font-size="13.5" fill="#8A8A8A">[OK] LOADING OPERATOR_PROFILE ......................... <tspan fill="#FFA53C">DONE</tspan></text>
-  <text x="24" y="88" font-size="13.5"><tspan fill="#FF6A00">OPERATOR   </tspan><tspan fill="#555555">: </tspan><tspan fill="#F0F0F0">Miguel Maximos Ramos Rodrigues</tspan></text>
-  <text x="24" y="112" font-size="13.5"><tspan fill="#FF6A00">CALLSIGN   </tspan><tspan fill="#555555">: </tspan><tspan fill="#F0F0F0">gardenermaximos</tspan></text>
-  <text x="24" y="136" font-size="13.5"><tspan fill="#FF6A00">ROLE       </tspan><tspan fill="#555555">: </tspan><tspan fill="#F0F0F0">Mechanical Lead // Hardware Engineer</tspan></text>
-  <text x="24" y="160" font-size="13.5"><tspan fill="#FF6A00">FOCUS      </tspan><tspan fill="#555555">: </tspan><tspan fill="#F0F0F0">Physical AI :: Embedded Systems :: Mobile Robotics</tspan></text>
-  <text x="24" y="184" font-size="13.5"><tspan fill="#FF6A00">EXPERIENCE </tspan><tspan fill="#555555">: </tspan><tspan fill="#F0F0F0">5+ yrs // CAD Modeling // Fabrication // Kinematic Control</tspan></text>
-  <text x="24" y="208" font-size="13.5"><tspan fill="#FF6A00">LOCATION   </tspan><tspan fill="#555555">: </tspan><tspan fill="#F0F0F0">Ourinhos, SP - Brazil</tspan></text>
-  <text x="24" y="234" font-size="13.5" fill="#8A8A8A">[OK] SYSTEM_BIO_LOADED ................................ <tspan fill="#FFA53C">[STATUS_ONLINE]</tspan></text>
-  <rect x="700" y="222" width="9" height="15" fill="#FFA53C">
+  <text x="24" y="62" font-size="13.5" fill="#8A8A8A">[OK] LOADING OPERATOR_PROFILE ......................... <tspan fill="#F5ABB0">DONE</tspan></text>
+  <text x="24" y="88" font-size="13.5"><tspan fill="#E4717A">OPERATOR   </tspan><tspan fill="#555555">: </tspan><tspan fill="#F0F0F0">Miguel Maximos Ramos Rodrigues</tspan></text>
+  <text x="24" y="112" font-size="13.5"><tspan fill="#E4717A">CALLSIGN   </tspan><tspan fill="#555555">: </tspan><tspan fill="#F0F0F0">gardenermaximos</tspan></text>
+  <text x="24" y="136" font-size="13.5"><tspan fill="#E4717A">ROLE       </tspan><tspan fill="#555555">: </tspan><tspan fill="#F0F0F0">Mechanical Design // Hardware Engineer</tspan></text>
+  <text x="24" y="160" font-size="13.5"><tspan fill="#E4717A">FOCUS      </tspan><tspan fill="#555555">: </tspan><tspan fill="#F0F0F0">Physical AI :: Embedded Systems :: Mobile Robotics</tspan></text>
+  <text x="24" y="184" font-size="13.5"><tspan fill="#E4717A">EXPERIENCE </tspan><tspan fill="#555555">: </tspan><tspan fill="#F0F0F0">5+ yrs // CAD Modeling // Fabrication // Kinematic Control</tspan></text>
+  <text x="24" y="210" font-size="13.5" fill="#8A8A8A">[OK] SYSTEM_BIO_LOADED ................................ <tspan fill="#F5ABB0">[STATUS_ONLINE]</tspan></text>
+  <rect x="700" y="198" width="9" height="15" fill="#F5ABB0">
     <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
   </rect>
 </svg>
