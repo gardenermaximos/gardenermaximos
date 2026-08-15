@@ -84,7 +84,7 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
-## /// COMPETITION_LOG :: VERIFIED_RESULTS
+### LAST_COMPETITIONS_LOG
 
 <div align="center">
 
@@ -92,25 +92,22 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 |:---:|:---|:---|
 | `[>>]` | RoboCup International — Incheon 2026 | **Top 6 / 24** teams worldwide |
 | `[>>]` | RoboCup Brazil — National Championship 2025 | **1st / 6** national teams |
-| `[>>]` | State Championship 2026 | **1st / 8** state teams (x2 titles) |
-| `[>>]` | State Championship 2025 | **3rd / 8** state teams (x2 podiums) |
 
-`[LOG]` Team trajectory: last place in regional qualifiers &rarr; National Champion &rarr; Top 6 global &rarr; 4 new teams incubated (1 state title).
+###  Promoting the development of autonomous robotics in Brazil
 
 </div>
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
-## /// TRACK_RECORD :: KEY_METRICS
-
+## TRACK_RECORD
 <div align="center">
 
 | `[ID]` | MODULE | METRICS |
 |:---:|:---|:---|
 | `[01]` | **HARDWARE_ARCHITECTURE** :: RoboCup | 300+ 3D models designed \| 100+ custom fabricated parts \| 6 autonomous soccer robots (Lightweight & Infrared) |
 | `[02]` | **ALGORITHMIC_EFFICIENCY** :: Research | Taylor Series & Silver Ratio approximations replacing sqrt ops on microcontrollers |
-| `[03]` | **OPEN_SOURCE_HARDWARE** :: Publishing | Production-ready CAD + docs standardized for 9+ BR robotics teams |
-| `[04]` | **STEM_MENTORSHIP** :: StemPlan | Founder \| 64+ students mentored \| 1 trainee promoted to competitive squad |
+| `[03]` | **GENERAL_HARDWARE** :: Publishing | Production-ready CAD + robotics projects |
+| `[04]` | **STEM_MENTORSHIP** ::      StemPlan | Founder \| 64+ students mentored \| Development of technical skills |
 
 </div>
 
@@ -124,7 +121,7 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
-## /// FEATURED_REPOSITORIES :: (EXTRA)
+## FEATURED_REPOSITORIES
 
 <div align="center">
 
@@ -161,7 +158,7 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
-## /// SYSTEM_METRICS_&_ANALYTICS :: TELEMETRY
+## SYSTEM_METRICS_&_ANALYTICS
 
 <div align="center">
 
@@ -184,7 +181,7 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
-## /// CONTRIBUTION_MATRIX :: SNAKE_ANIMATION
+## CONTRIBUTION_MATRIX
 
 <div align="center">
 
@@ -198,7 +195,7 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
-## /// PORTFOLIO_NODES :: VAULT_&_CONNECT
+## PORTFOLIO_NODES
 
 <div align="center">
 
