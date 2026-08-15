@@ -49,7 +49,7 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
-## /// HARDWARE_&_SOFTWARE_MATRIX :: TECH_STACK
+### HARDWARE_&_SOFTWARE_MATRIX
 
 <div align="center">
 
