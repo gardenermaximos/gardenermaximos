@@ -84,7 +84,7 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
-### LAST_COMPETITIONS_LOG
+### LAST COMPETITIONS LOG
 
 <div align="center">
 
@@ -190,6 +190,7 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 </a>
 
 </div>
+
 ## CONTRIBUTION MATRIX
 
 <div align="center">
