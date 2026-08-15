@@ -119,59 +119,76 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 `[LOG]` A few projects worth a closer look — everything else lives on the profile below.
 
+<br/><br/>
+
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" bgcolor="#030303">
 <a href="https://github.com/gardenermaximos/RoboCup-Hardware-OpenSource">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gardenermaximos&repo=RoboCup-Hardware-OpenSource&theme=tokyonight&border_color=9E3B42&bg_color=030303&title_color=E4717A&icon_color=F5ABB0" alt="RoboCup Hardware OpenSource"/>
+<img width="100%" src="https://img.shields.io/badge/RoboCup--Hardware--OpenSource-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="RoboCup Hardware OpenSource"/>
 </a>
+<p align="left"><font color="#F5ABB0"><sub><b>[MODULE_01]</b> Complete CAD blueprints, STEP files & assembly guides for national champion robots.</sub></font></p>
 </td>
-<td width="50%">
+<td width="50%" bgcolor="#030303">
 <a href="https://github.com/gardenermaximos/Taylor-Series-Hypotenuse-Approximation">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gardenermaximos&repo=Taylor-Series-Hypotenuse-Approximation&theme=tokyonight&border_color=9E3B42&bg_color=030303&title_color=E4717A&icon_color=F5ABB0" alt="Taylor Series Hypotenuse Approximation"/>
+<img width="100%" src="https://img.shields.io/badge/Taylor--Series--Hypotenuse-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="Taylor Series Hypotenuse Approximation"/>
 </a>
+<p align="left"><font color="#F5ABB0"><sub><b>[MODULE_02]</b> Fast square-root-free hypotenuse approximation algorithm using Taylor Series for MCUs.</sub></font></p>
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" bgcolor="#030303">
 <a href="https://github.com/gardenermaximos/NeuroPulse-Industrial-Safety">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gardenermaximos&repo=NeuroPulse-Industrial-Safety&theme=tokyonight&border_color=9E3B42&bg_color=030303&title_color=E4717A&icon_color=F5ABB0" alt="NeuroPulse Industrial Safety"/>
+<img width="100%" src="https://img.shields.io/badge/NeuroPulse--Industrial--Safety-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="NeuroPulse Industrial Safety"/>
 </a>
+<p align="left"><font color="#F5ABB0"><sub><b>[MODULE_03]</b> Closed-loop biomedical wearable architecture for operator fatigue/distraction monitoring.</sub></font></p>
 </td>
-<td width="50%">
+<td width="50%" bgcolor="#030303">
 <a href="https://github.com/gardenermaximos/StemPlan-Robotics-Curriculum">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gardenermaximos&repo=StemPlan-Robotics-Curriculum&theme=tokyonight&border_color=9E3B42&bg_color=030303&title_color=E4717A&icon_color=F5ABB0" alt="StemPlan Robotics Curriculum"/>
+<img width="100%" src="https://img.shields.io/badge/StemPlan--Robotics--Curriculum-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="StemPlan Robotics Curriculum"/>
 </a>
+<p align="left"><font color="#F5ABB0"><sub><b>[MODULE_04]</b> Open-access STEM, 3D modeling, and robotics training curriculum for middle school initiation.</sub></font></p>
 </td>
 </tr>
 </table>
 
 </div>
 
-<img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
-
-## SYSTEM_METRICS_&_ANALYTICS
+## /// SYSTEM_METRICS_&_ANALYTICS :: TELEMETRY
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gardenermaximos&theme=gruvbox&no-frame=true&margin-w=12&margin-h=12&row=1&column=7" alt="Trophies"/>
+`[SYSTEM_LOG]` Real-time operator metrics & activity diagnostics.
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=gardenermaximos&show_icons=true&theme=tokyonight&border_color=9E3B42&bg_color=030303&title_color=E4717A&icon_color=F5ABB0&text_color=FFE4EA" alt="GitHub Stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gardenermaximos&layout=compact&theme=tokyonight&border_color=9E3B42&bg_color=030303&title_color=E4717A&text_color=FFE4EA" alt="Top Languages"/>
+<table width="100%">
+<tr>
+  <td width="33%" align="center" bgcolor="#030303">
+    <font color="#E4717A"><b>/// SYSTEM STATUS</b></font><br/><br/>
+    <img src="https://img.shields.io/badge/CORE-ACTIVE-E4717A?style=for-the-badge&labelColor=030303" /><br/>
+    <font color="#F5ABB0"><sub>[ 01 ] HARDWARE & EMBEDDED</sub></font>
+  </td>
+  <td width="33%" align="center" bgcolor="#030303">
+    <font color="#E4717A"><b>/// PRIMARY ENGINE</b></font><br/><br/>
+    <img src="https://img.shields.io/badge/LANG-C%2B%2B_%2F_PYTHON-F5ABB0?style=for-the-badge&labelColor=030303" /><br/>
+    <font color="#F5ABB0"><sub>[ 02 ] CAD & ALGORITHMS</sub></font>
+  </td>
+  <td width="33%" align="center" bgcolor="#030303">
+    <font color="#E4717A"><b>/// CLEARANCE</b></font><br/><br/>
+    <img src="https://img.shields.io/badge/LEVEL-OPEN_SOURCE-9E3B42?style=for-the-badge&labelColor=030303" /><br/>
+    <font color="#F5ABB0"><sub>[ 03 ] ROBOCUP CHAMPION</sub></font>
+  </td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gardenermaximos&theme=dark&background=030303&border=9E3B42&stroke=9E3B42&ring=F5ABB0&fire=E4717A&currStreakLabel=F5ABB0" alt="Streak Stats"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gardenermaximos&theme=react-dark&bg_color=030303&color=E4717A&line=F5ABB0&point=E4717A&area=true&hide_border=true" alt="Activity Graph"/>
+<a href="https://github.com/gardenermaximos">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gardenermaximos&theme=react-dark&bg_color=030303&color=E4717A&line=F5ABB0&point=E4717A&area=true&hide_border=true" alt="Activity Graph"/>
+</a>
 
 </div>
-
-<img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
 ## CONTRIBUTION_MATRIX
 
