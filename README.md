@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=E4717A&center=true&vCenter=true&width=1100&height=40&lines=%3E+MIGUEL_MAXIMOS_RAMOS_RODRIGUES+%2F%2F+MECHANICAL_DESIGN+%26+HARDWARE_ENGINEER;&repeat=false" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=E4717A&center=true&vCenter=true&width=1100&height=40&lines=%3E+MIGUEL++MAXIMOS++RAMOS++RODRIGUES+%2F%2F+MECHANICAL++DESIGN+%26+HARDWAR++ENGINEER;&repeat=false" alt="Typing SVG"/>
 
 <p>
-<b>PHYSICAL AI &nbsp;::&nbsp; AUTONOMOUS HARDWARE &nbsp;::&nbsp; OPEN-SOURCE ADVOCATE</b>
+<b>PHYSICAL AI &nbsp;&nbsp; AUTONOMOUS HARDWARE &nbsp;&nbsp; OPEN-SOURCE ADVOCATE</b>
 </p>
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-E4717A?style=for-the-badge&labelColor=030303" alt="System Online"/>
@@ -42,7 +42,7 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <div align="center">
 
-<p align="center"><b>[ 01 ] CAD & PHYSICAL PROTOTYPING</b></p>
+<p align="center"><b>CAD & PHYSICAL PROTOTYPING</b></p>
 
 <img src="https://img.shields.io/badge/FUSION_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white&v=1" alt="Fusion 360"/>
 <img src="https://img.shields.io/badge/STEP_%2F_STL_MGMT-333333?style=for-the-badge&logo=autodesk&logoColor=white&v=1" alt="STEP / STL"/>
@@ -51,7 +51,7 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <br/><br/>
 
-<p align="center"><b>[ 02 ] EMBEDDED & COMPUTING</b></p>
+<p align="center"><b>EMBEDDED & COMPUTING</b></p>
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&v=1" alt="C++"/>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFE873&v=1" alt="Python"/>
@@ -63,7 +63,7 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <br/><br/>
 
-<p align="center"><b>[ 03 ] ENGINEERING WORKFLOW</b></p>
+<p align="center"><b>ENGINEERING WORKFLOW</b></p>
 
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white&v=1" alt="Git"/>
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&v=1" alt="GitHub"/>
@@ -75,10 +75,10 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <div align="center">
 
-| `[RANK]` | EVENT | RESULT |
-|:---:|:---|:---|
-| `[>>]` | RoboCup International — Incheon 2026 | **Top 6 / 24** teams worldwide |
-| `[>>]` | RoboCup Brazil — National Championship 2025 | **1st / 6** national teams |
+| EVENT | RESULT |
+|:---|:---|
+|RoboCup International — Incheon 2026 | **Top 6 / 24** teams worldwide |
+|RoboCup Brazil — National Championship 2025 | **1st / 6** national teams |
 
 ###  Promoting the development of autonomous robotics in Brazil
 
@@ -89,12 +89,12 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 ## TRACK RECORD
 <div align="center">
 
-| `[ID]` | MODULE | METRICS |
-|:---:|:---|:---|
-| `[01]` | **HARDWARE_ARCHITECTURE** :: RoboCup | 300+ 3D models designed \| 100+ custom fabricated parts \| 6 autonomous soccer robots (Lightweight & Infrared) |
-| `[02]` | **ALGORITHMIC_EFFICIENCY** :: Research | Taylor Series & Silver Ratio approximations replacing sqrt ops on microcontrollers |
-| `[03]` | **GENERAL_HARDWARE** :: Publishing | Production-ready CAD + robotics projects |
-| `[04]` | **STEM_MENTORSHIP** ::      StemPlan | Founder \| 64+ students mentored \| Development of technical skills |
+| MODULE | METRICS |
+|:---|:---|
+| **HARDWARE_ARCHITECTURE** :: RoboCup | 300+ 3D models designed \| 100+ custom fabricated parts \| 6 autonomous soccer robots (Lightweight & Infrared) |
+| **ALGORITHMIC_EFFICIENCY** :: Research | Taylor Series & Silver Ratio approximations replacing sqrt ops on microcontrollers |
+| **GENERAL_HARDWARE** :: Publishing | Production-ready CAD + robotics projects |
+| **STEM_MENTORSHIP** ::      StemPlan | Founder \| 64+ students mentored \| Development of technical skills |
 
 </div>
 
@@ -104,7 +104,7 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <div align="center">
 
-`[LOG]` A few projects worth a closer look — everything else lives on the profile below.
+A few projects worth a closer look — everything else lives on the profile below.
 
 <br/><br/>
 
@@ -115,14 +115,14 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
   <a href="https://github.com/gardenermaximos/RoboCup-Hardware-OpenSource">
     <img width="340" src="https://img.shields.io/badge/%20RoboCup--Hardware--OpenSource%20-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="RoboCup Hardware OpenSource"/>
   </a>
-  <p align="left"><font color="#F5ABB0"><sub><b>[MODULE_01]</b> Complete CAD blueprints, STEP files & assembly guides for national champion robots.</sub></font></p>
+  <p align="left"><font color="#F5ABB0"><sub><b></b> Complete CAD blueprints, STEP files & assembly guides for national champion robots.</sub></font></p>
 </td>
 <td width="50%" align="center" bgcolor="#030303">
   <br/>
   <a href="https://github.com/gardenermaximos/Taylor-Series-Hypotenuse-Approximation">
     <img width="340" src="https://img.shields.io/badge/%20%20Taylor--Series--Hypotenuse%20%20-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="Taylor Series Hypotenuse Approximation"/>
   </a>
-  <p align="left"><font color="#F5ABB0"><sub><b>[MODULE_02]</b> Fast square-root-free hypotenuse approximation algorithm using Taylor Series for MCUs.</sub></font></p>
+  <p align="left"><font color="#F5ABB0"><sub><b></b> Fast square-root-free hypotenuse approximation algorithm using Taylor Series for MCUs.</sub></font></p>
 </td>
 </tr>
 <tr>
@@ -131,14 +131,14 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
   <a href="https://github.com/gardenermaximos/NeuroPulse-Industrial-Safety">
     <img width="340" src="https://img.shields.io/badge/%20NeuroPulse--Industrial--Safety-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="NeuroPulse Industrial Safety"/>
   </a>
-  <p align="left"><font color="#F5ABB0"><sub><b>[MODULE_03]</b> Closed-loop biomedical wearable architecture for operator fatigue/distraction monitoring.</sub></font></p>
+  <p align="left"><font color="#F5ABB0"><sub><b></b> Closed-loop biomedical wearable architecture for operator fatigue/distraction monitoring.</sub></font></p>
 </td>
 <td width="50%" align="center" bgcolor="#030303">
   <br/>
   <a href="https://github.com/gardenermaximos/StemPlan-Robotics-Curriculum">
     <img width="340" src="https://img.shields.io/badge/%20StemPlan--Robotics--Curriculum%20-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="StemPlan Robotics Curriculum"/>
   </a>
-  <p align="left"><font color="#F5ABB0"><sub><b>[MODULE_04]</b> Open-access STEM, 3D modeling, and robotics training curriculum for middle school initiation.</sub></font></p>
+  <p align="left"><font color="#F5ABB0"><sub><b></b> Open-access STEM, 3D modeling, and robotics training curriculum for middle school initiation.</sub></font></p>
 </td>
 </tr>
 </table>
@@ -149,19 +149,19 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <div align="center">
 
-`[DIAGNOSTIC_LOG]` Real-time repository metrics, language matrix, and commit telemetry.
+Real-time repository metrics, language matrix, and commit telemetry.
 
 <br/><br/>
 
 <table width="100%">
 <tr>
   <td width="50%" align="center" bgcolor="#030303">
-    <p align="center"><font color="#E4717A"><b>/// CORE ENGINE & STACK</b></font></p>
+    <p align="center"><font color="#E4717A"><b>CORE ENGINE & STACK</b></font></p>
     <img src="https://img.shields.io/badge/MAIN_LANG-C%2B%2B_%2F_PYTHON-E4717A?style=for-the-badge&labelColor=030303" /><br/>
     <img src="https://img.shields.io/badge/HARDWARE-EMBEDDED_SYSTEMS-F5ABB0?style=for-the-badge&labelColor=030303" />
   </td>
   <td width="50%" align="center" bgcolor="#030303">
-    <p align="center"><font color="#E4717A"><b>/// REPOSITORY METRICS</b></font></p>
+    <p align="center"><font color="#E4717A"><b>REPOSITORY METRICS</b></font></p>
   <img src="https://img.shields.io/github/stars/gardenermaximos?type=all&style=for-the-badge&label=TOTAL_STARS&labelColor=030303&color=E4717A" />
     <img src="https://img.shields.io/github/followers/gardenermaximos?style=for-the-badge&label=FOLLOWERS&labelColor=030303&color=F5ABB0" />
   </td>
