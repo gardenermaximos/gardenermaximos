@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=E4717A&center=true&vCenter=true&width=1100&height=40&lines=%3E+MIGUEL++MAXIMOS++RAMOS++RODRIGUES+%2F%2F+MECHANICAL++DESIGN+%26+HARDWAR++ENGINEER;&repeat=false" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=E4717A&center=true&vCenter=true&width=1100&height=40&lines=%3E+MIGUEL++MAXIMOS++RAMOS++RODRIGUES+%2F%2F+MECHANICAL++DESIGN+%26+HARDWARE++ENGINEER;&repeat=false" alt="Typing SVG"/>
 
-<p>
-<b>PHYSICAL AI &nbsp;&nbsp; AUTONOMOUS HARDWARE &nbsp;&nbsp; OPEN-SOURCE ADVOCATE</b>
+<p align="center">
+  <b>PHYSICAL AI &nbsp;&nbsp; AUTONOMOUS &nbsp;&nbsp; HARDWARE &nbsp;&nbsp; OPEN-SOURCE ADVOCATE</b>
 </p>
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-E4717A?style=for-the-badge&labelColor=030303" alt="System Online"/>
