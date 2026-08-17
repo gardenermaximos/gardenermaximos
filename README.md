@@ -171,7 +171,7 @@ Real-time repository metrics, language matrix, and commit telemetry.
 <br/>
 
 <a href="https://github.com/gardenermaximos">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=gardenermaximos&theme=dark&background=030303&border=9E3B42&stroke=E4717A&ring=F5ABB0&fire=E4717A&currStreakLabel=F5ABB0" alt="Streak Diagnostics"/>
+  <img width="100%" src="https://streak-stats.demolab.com/?user=gardenermaximos&theme=dark&background=030303&border=9E3B42&stroke=E4717A&ring=F5ABB0&fire=E4717A&currStreakLabel=F5ABB0&v=1" alt="Streak Diagnostics"/>
 </a>
 
 <br/><br/>
