@@ -106,26 +106,10 @@ A few projects worth a closer look — everything else lives on the profile belo
 </td>
 <td width="50%" align="center" bgcolor="#030303">
   <br/>
-  <a href="https://github.com/gardenermaximos/Taylor-Series-Hypotenuse-Approximation">
-    <img width="340" src="https://img.shields.io/badge/%20%20Taylor--Series--Hypotenuse%20%20-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="Taylor Series Hypotenuse Approximation"/>
+  <a href="https://github.com/gardenermaximos/RoboCup-Hardware-OpenSource">
+    <img width="340" src="https://img.shields.io/badge/%20RoboCup--Hardware--OpenSource%20-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="RoboCup Hardware OpenSource"/>
   </a>
-  <p align="left"><font color="#F5ABB0"><sub><b></b> Fast square-root-free hypotenuse approximation algorithm using Taylor Series for MCUs.</sub></font></p>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" bgcolor="#030303">
-  <br/>
-  <a href="https://github.com/gardenermaximos/NeuroPulse-Industrial-Safety">
-    <img width="340" src="https://img.shields.io/badge/%20NeuroPulse--Industrial--Safety-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="NeuroPulse Industrial Safety"/>
-  </a>
-  <p align="left"><font color="#F5ABB0"><sub><b></b> Closed-loop biomedical wearable architecture for operator fatigue/distraction monitoring.</sub></font></p>
-</td>
-<td width="50%" align="center" bgcolor="#030303">
-  <br/>
-  <a href="https://github.com/gardenermaximos/StemPlan-Robotics-Curriculum">
-    <img width="340" src="https://img.shields.io/badge/%20StemPlan--Robotics--Curriculum%20-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="StemPlan Robotics Curriculum"/>
-  </a>
-  <p align="left"><font color="#F5ABB0"><sub><b></b> Open-access STEM, 3D modeling, and robotics training curriculum for middle school initiation.</sub></font></p>
+  <p align="left"><font color="#F5ABB0"><sub><b></b> Complete CAD blueprints, STEP files & assembly guides for national champion robots.</sub></font></p>
 </td>
 </tr>
 </table>
