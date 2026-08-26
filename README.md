@@ -86,19 +86,6 @@ What started as late nights fixing homemade robots turned into leading a RoboCup
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
-## TRACK RECORD
-<div align="center">
-
-| MODULE | METRICS |
-|:---|:---|
-| **HARDWARE_ARCHITECTURE** :: RoboCup | 300+ 3D models designed \| 100+ custom fabricated parts \| 6 autonomous soccer robots (Lightweight & Infrared) |
-| **ALGORITHMIC_EFFICIENCY** :: Research | Taylor Series & Silver Ratio approximations replacing sqrt ops on microcontrollers |
-| **GENERAL_HARDWARE** :: Publishing | Production-ready CAD + robotics projects |
-| **STEM_MENTORSHIP** ::      StemPlan | Founder \| 64+ students mentored \| Development of technical skills |
-
-</div>
-
-<img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
 ## FEATURED REPOSITORIES
 
@@ -144,57 +131,6 @@ A few projects worth a closer look — everything else lives on the profile belo
 </table>
 
 </div>
-
-## SYSTEM METRICS
-
-<div align="center">
-
-Real-time repository metrics, language matrix, and commit telemetry.
-
-<br/><br/>
-
-<table width="100%">
-<tr>
-  <td width="50%" align="center" bgcolor="#030303">
-    <p align="center"><font color="#E4717A"><b>CORE ENGINE & STACK</b></font></p>
-    <img src="https://img.shields.io/badge/MAIN_LANG-C%2B%2B_%2F_PYTHON-E4717A?style=for-the-badge&labelColor=030303" /><br/>
-    <img src="https://img.shields.io/badge/HARDWARE-EMBEDDED_SYSTEMS-F5ABB0?style=for-the-badge&labelColor=030303" />
-  </td>
-  <td width="50%" align="center" bgcolor="#030303">
-    <p align="center"><font color="#E4717A"><b>REPOSITORY METRICS</b></font></p>
-  <img src="https://img.shields.io/github/stars/gardenermaximos?type=all&style=for-the-badge&label=TOTAL_STARS&labelColor=030303&color=E4717A" />
-    <img src="https://img.shields.io/github/followers/gardenermaximos?style=for-the-badge&label=FOLLOWERS&labelColor=030303&color=F5ABB0" />
-  </td>
-</tr>
-</table>
-
-<br/>
-
-<a href="https://github.com/gardenermaximos">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=gardenermaximos&theme=dark&background=030303&border=9E3B42&stroke=E4717A&ring=F5ABB0&fire=E4717A&currStreakLabel=F5ABB0&v=1" alt="Streak Diagnostics"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/gardenermaximos">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gardenermaximos&theme=react-dark&bg_color=030303&color=E4717A&line=F5ABB0&point=E4717A&area=true&hide_border=true" alt="Activity Graph"/>
-</a>
-
-</div>
-
-## CONTRIBUTION MATRIX
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gardenermaximos/gardenermaximos/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gardenermaximos/gardenermaximos/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/gardenermaximos/gardenermaximos/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
-<img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
 ## CONNECT WITH ME!
 
