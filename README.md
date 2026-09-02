@@ -54,7 +54,7 @@ On the software side, I write code for microcontrollers using C++ and Python wit
 ### CONNECT WITH ME
 
 <p align="left">
-  <a href="https://grabcad.com/">
+  <a href="[https://grabcad.com/](https://grabcad.com/miguel.maximos-1")">
     <img width="200" height="45" src="https://img.shields.io/badge/GRABCAD-005596?style=for-the-badge&logo=stratasys&logoColor=white" alt="GrabCAD"/>
   </a>
   &nbsp;
