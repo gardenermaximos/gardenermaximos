@@ -51,31 +51,6 @@ My technical workflow covers low-latency sensor interfaces and microcontrollers 
 
 <img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
 
-### FEATURED REPOSITORIES
-
-<table width="100%">
-<tr>
-<td width="50%" align="left" bgcolor="#030303">
-  <br/>
-  <a href="https://github.com/gardenermaximos/RoboCup-Hardware-OpenSource">
-    <img width="320" src="https://img.shields.io/badge/%20RoboCup--Hardware%20-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="RoboCup Hardware"/>
-  </a>
-  <p align="justify"><font color="#F5ABB0"><sub><b>RoboCup Hardware CAD:</b> Full assembly STEP files, custom mounting, and CAD blueprints for mobile robotics.</sub></font></p>
-</td>
-<td width="50%" align="left" bgcolor="#030303">
-  <br/>
-  <a href="https://github.com/gardenermaximos/NeuroPulse-BioHardware">
-    <img width="320" src="https://img.shields.io/badge/%20NeuroPulse--BioHardware%20-E4717A?style=for-the-badge&logo=github&logoColor=030303" alt="NeuroPulse Bio-Hardware"/>
-  </a>
-  <p align="justify"><font color="#F5ABB0"><sub><b>NeuroPulse Research:</b> Low-latency bio-hardware monitoring device featuring real-time signal filtering and custom housing.</sub></font></p>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="assets/scan-divider.svg" width="100%" height="6" alt=""/>
-
 ### CONNECT WITH ME
 
 <p align="left">
