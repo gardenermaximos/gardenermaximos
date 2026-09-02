@@ -1,15 +1,17 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=E4717A&center=false&vCenter=true&width=1100&height=40&lines=%3E+MIGUEL++MAXIMOS++RAMOS++RODRIGUES+%2F%2F+MECHANICAL++DESIGN+%26+HARDWARE++ENGINEER;&repeat=false" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=E4717A&center=false&vCenter=true&width=1100&height=40&lines=%3E+MIGUEL++MAXIMOS++RAMOS++RODRIGUES+%2F%2F+HARDWARE+%26+SOFTWARE+STUDENT;&repeat=false" alt="Typing SVG"/>
+
+### Hi, I'm Miguel!
 
 <p align="justify">
-Mechanical Design and Hardware Engineer specializing in Physical AI, Systems Engineering, and Autonomous Robotics. I bridge physical mechanics with computational control, turning CAD models, embedded software, and control algorithms into field-ready hardware.
+I am a 16 year old high school student currently pursuing a technical degree in Systems Analysis and Development (ADS). My primary focus is Mechanical Engineering, while also building practical experience in Mechatronics, Robotics, microcontrollers, and software integration.
 </p>
 
 <p align="justify">
-With 4+ years of experience in Fusion 360, I have engineered 300+ custom components and executed 1,000+ manufacturing iterations across FDM, SLA resin printing, and laser cutting. As Hardware Lead, I oversaw physical system architecture, custom chassis design, drive systems, and power management setups.
+My practical work revolves around CAD modeling in Fusion 360 and digital fabrication using FDM 3D printing, SLA resin, and laser cutting. Acting as Hardware Lead for my high school robotics team, I work on mobile chassis design, component layout, and physical power setups.
 </p>
 
 <p align="justify">
-My technical workflow covers low-latency sensor interfaces and microcontrollers using C++, Python, ESP32, and Arduino, alongside custom web dashboards built with JavaScript, PHP, HTML5, CSS, and SQL for system monitoring and hardware control.
+On the software side, I write code for microcontrollers using C++ and Python with ESP32 and Arduino boards. I also develop web dashboards using JavaScript, PHP, HTML5, CSS3, and SQL for local data handling and system monitoring.
 </p>
 
 <br/>
