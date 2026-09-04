@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=E4717A&center=false&vCenter=true&width=1100&height=55&lines=%3E+MIGUEL++MAXIMOS++RAMOS++RODRIGUES;&repeat=false" alt="Typing SVG"/>
-
+ 
 <p align="justify">
 I am a 16 year old high school student currently pursuing a technical degree in Systems Analysis and Development (ADS). My primary focus is Mechanical Engineering, while also building practical experience in Mechatronics, Robotics and software integration.
 </p>
