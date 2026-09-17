@@ -53,17 +53,9 @@ On the software side, I write code for microcontrollers using C++ and Python wit
 
 ### CONNECT WITH ME
 
-<p align="left">
+<p align="center">
   <a href="https://grabcad.com/miguel.maximos-1">
     <img width="200" height="45" src="https://img.shields.io/badge/GRABCAD-005596?style=for-the-badge&logo=stratasys&logoColor=white" alt="GrabCAD"/>
-  </a>
-  &nbsp;
-  <a href="https://www.printables.com/@MiguelMaximo_5247862">
-    <img width="200" height="45" src="https://img.shields.io/badge/PRINTABLES-FA6400?style=for-the-badge&logo=printables&logoColor=white" alt="Printables"/>
-  </a>
-  &nbsp;
-  <a href="https://makerworld.com/@MiguelMaximoss">
-    <img width="200" height="45" src="https://img.shields.io/badge/MAKERWORLD-00AE42?style=for-the-badge&logo=bambulab&logoColor=white" alt="MakerWorld"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com">
